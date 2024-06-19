@@ -6,9 +6,21 @@ This project is an assignment for recreating a UI mockup for a mobile applicatio
 
 ## Table of Contents
 
-- 
-- [Screenshots](./screenshots/Screenshot (64).png)
-- [Screenshots](./screenshots/Screenshot (65).png)
+- [Overview](#overview)
+- [Table of Contents](#table-of-contents)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Components](#components)
+- [Contributing](#contributing)
+
+## Screenshots
+
+### Login Screen
+![Login Screen](../../screenshots/Screenshot1.png)
+
+### Home Screen
+![Home Screen](../../screenshots/Screenshot2.png)
 
 ## Installation
 
