@@ -17,10 +17,10 @@ This project is an assignment for recreating a UI mockup for a mobile applicatio
 ## Screenshots
 
 ### Login Screen
-![Login Screen](../../screenshots/Screenshot1.png)
+![Login Screen](../../pictures/screenshots/Screenshot1.png)
 
 ### Home Screen
-![Home Screen](../../screenshots/Screenshot2.png)
+![Home Screen](../../pictures/screenshots/Screenshot2.png)
 
 ## Installation
 
