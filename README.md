@@ -17,14 +17,14 @@ This project is an assignment for recreating a UI mockup for a mobile applicatio
 ## Screenshots
 
 ### Login Screen
-![Login Screen](../../pictures/screenshots/Screenshot1.png)
+![Login Screen](sScreenshot1.png)
 
 ### Home Screen
-![Home Screen](../../pictures/screenshots/Screenshot2.png)
+![Home Screen](Screenshot2.png)
 
 ## Installation
 
-To run this project, follow these steps:
+To run this project, follow these steps:  
 
 1. Clone the repository:
    ```bash
