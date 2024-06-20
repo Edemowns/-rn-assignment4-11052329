@@ -17,7 +17,7 @@ This project is an assignment for recreating a UI mockup for a mobile applicatio
 ## Screenshots
 
 ### Login Screen
-![Login Screen](sScreenshot1.png)
+![Login Screen](Screenshot1.png)
 
 ### Home Screen
 ![Home Screen](Screenshot2.png)
